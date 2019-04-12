@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/	FALSE	1999999999	ASPSESSIONIDQCBAQQAS	OECLHHJAGHENLJOHBAICDODM
+.creativecommons.org	TRUE	/	FALSE	1999999999	__cfduid	d65c3dd3d0c9067f1d327fe61efb305551494556387
+.licensebuttons.net	TRUE	/	FALSE	1999999999	__cfduid	d1dc40b71479d84e2ba4990cef848f4061494556387
+localhost	TRUE	/	FALSE	1999999999	travianal	memHashKey=&memName=
+localhost	TRUE	/	FALSE	1999999999	travianalSetting	ViewType=list
+
